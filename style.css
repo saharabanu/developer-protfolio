@@ -2,5 +2,35 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 h1{
-    font-size: larger;
+    font-size: x-large;
 }
+.orange-color{
+    color:orange;
+}
+section{
+    display: flex;
+}
+.link-button{
+    text-decoration:none ;
+    background-color:orange;
+    background-image: linear-gradient(orange tomato)
+    color:white;
+    font: size 400px;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+   
+
